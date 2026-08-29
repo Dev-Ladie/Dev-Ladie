@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+Is+LADIE,;I+am+an+Undergraduate+Student;in+Industrial+Electronics;and+this+is+my+GitHub,+Welcome!+:%29)](https://git.io/typing-svg) 
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dev-Ladie&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
  
