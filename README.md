@@ -25,27 +25,48 @@ Here are some ideas to get you started:
 
  
 ### Main skills:
+![Static Badge](https://img.shields.io/badge/angular-0D1117?style=for-the-badge&logo=angular&logoColor=%23950606&logoSize=large)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
+
+
+
  
 ### Tools:
+![Static Badge](https://img.shields.io/badge/cisco-0D1117?style=for-the-badge&logo=cisco&logoColor=%231BA0D7&logoSize=large)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+![Static Badge](https://img.shields.io/badge/LibreOfficeWriter-0D1117?style=for-the-badge&logo=libreofficewriter&logoColor=%23083FA6&logoSize=large)&nbsp;
+
+
+
  
 ### Other Knowledge:
+![Static Badge](https://img.shields.io/badge/bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=%237952B3&logoSize=large)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp; 
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+![Static Badge](https://img.shields.io/badge/Arduino-0D1117?style=for-the-badge&logo=arduino&logoColor=%2300878F&logoSize=large)&nbsp;
+
+
+
+
+
+
+
+
   
 ### Studying in this moment:
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Static Badge](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=%233776AB&logoSize=large)&nbsp;
+![Static Badge](https://img.shields.io/badge/django-0D1117?style=for-the-badge&logo=django&logoColor=%20%2300FF00&logoSize=large)&nbsp;
+![Static Badge](https://img.shields.io/badge/postgresql-0D1117?style=for-the-badge&logo=postgresql&logoColor=%234169E1&logoSize=large)
+
+
+
 
 
 
