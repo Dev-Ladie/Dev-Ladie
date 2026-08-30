@@ -17,10 +17,22 @@ Here are some ideas to get you started:
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+Is+LADIE,;I+am+an+Undergraduate+Student;in+Industrial+Electronics;and+this+is+my+GitHub,+Welcome!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+Is+LADIE,;I+am+an+Undergraduate+Student;in+Industrial+Electronics;and+this+is+my+GitHub,+Welcome!+:%29)](https://git.io/typing-svg)&nbsp;
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dev-Ladie&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dev-Ladie&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
+
+
+
+<!-- Pacman -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dev-Ladie/Dev-Ladie/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dev-Ladie/Dev-Ladie/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Dev-Ladie/Dev-Ladie/output/pacman-contribution-graph.svg">
+</picture>
+
+---
 
 
  
