@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 ![Static Badge](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=%233776AB&logoSize=large)&nbsp;
 ![Static Badge](https://img.shields.io/badge/django-0D1117?style=for-the-badge&logo=django&logoColor=%20%2300FF00&logoSize=large)&nbsp;
 ![Static Badge](https://img.shields.io/badge/postgresql-0D1117?style=for-the-badge&logo=postgresql&logoColor=%234169E1&logoSize=large)&nbsp;
-![Static Badge](https://img.shields.io/badge/pycharm-0D1117?style=flat-square&logo=pycharm&logoColor=%23FFFFFF&logoSize=large)&nbsp;
+![Static Badge](https://img.shields.io/badge/pycharm-0D1117?style=for-the-badge&logo=pycharm&logoColor=%23FFFFFF&logoSize=large)&nbsp;
 
 
 
